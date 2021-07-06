@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,400&display=swap');
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+}
+h2{
+    font-size: 50px;
+}
+.orange-color{
+    color: orangered;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 100px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 10%;
+}
+.half-width img{
+    width: 100%;
+}
+.half-width p{
+    margin-bottom: 30px;
+}
+.link-button{
+    text-decoration: none;
+    background-color: orangered;
+    padding: 10px 35px;
+    border-radius: 20px;
+    color: white;
+}
+.top-banner2{
+    background-image: url(images/shapes/pic3.png);
+    background-repeat: no-repeat;
+}
+.top-banner1{
+    background-image: url(images/shapes/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+}
+.shef{
+    text-align:left;
+}
+.recipi{
+    text-align: center;
+}
+.center{
+    text-align: center;
+}
+.center-2{
+    margin-bottom: 50px;
+    text-align: center;
+}
+.third-width{
+    width: 33.33%;
+    text-align: center;
+}
+.t-one{
+    height: 440px;
+    width: 350px;
+    margin: 0 auto;
+}
+.t-one img{
+    width: 89%;
+    border-radius: 7%;
+}
+.third-width h2{
+    font-size:25px;
+    margin: -120px 0 0 0;
+}
+.third-width p{
+    font-size: 18px;
+    font-weight: 300;
+    text-align: left;
+    padding: 0 20px;
+}
+.t-two{
+    height: 440px;
+    width: 350px;
+    margin: 0 auto;
+}
+.t-two img{
+    width: 100%;
+    border-radius: 7%;
+}
+.t-three{
+    height: 440px;
+    width: 350px;
+    margin: 0 auto;
+}
+.t-three img{
+    width: 89%;
+    border-radius: 7%;
+}
+.three-col{
+    width: 33.33%;
+    text-align: center;
+}
+.three-col h1{
+    font-size: 36px;
+    font-weight: 900;
+}
+.three-col p{
+    font-size: 18px;
+}
+footer{
+    background: #000;
+    color: #fff;
+    padding: 10px 0 100px 0;
+    text-align: center;
+}
+footer span{
+    color: orangered;
+}
+footer h2{
+    text-transform: uppercase;
+}
+footer p{
+    font-size: 16px;
+    color: #fff;
+    font-weight: 300;
+}
+.fahim{
+    box-shadow: 5px 5px 5px 5px #ccc;
+    padding: 0px 53px;
+}
